@@ -1,0 +1,9 @@
+add_library(array17bit
+        src/Array17bit.cpp
+        include/Array17bit.h
+        src/Int17bit.cpp
+        include/Int17bit.h
+        src/Iterator2D.cpp
+        include/Iterator2D.h
+        src/Iterator.cpp
+        include/Iterator.h)
